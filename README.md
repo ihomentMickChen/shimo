@@ -6,35 +6,35 @@
 
 1.2 在Chrome网上应用店搜索tampermonkey
 
-![image-20210702132812632](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702132812632.png)
+![image-20210702132812632](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702132812632.png)
 
 安装tampermonkey
 
-![image-20210702133106692](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702133106692.png)
+![image-20210702133106692](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702133106692.png)
 
 安装成功后地址栏后面会出现一个插件图标，点击**管理扩展程序**
 
-![image-20210702133444821](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702133444821.png)
+![image-20210702133444821](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702133444821.png)
 
 确保油猴脚本和开发者模式是打开状态
 
-![image-20210702133747106](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702133747106.png)
+![image-20210702133747106](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702133747106.png)
 
 点击油猴插件弹出页面选择进入管理面板
 
-![image-20210702133916580](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702133916580.png)
+![image-20210702133916580](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702133916580.png)
 
-![image-20210702134004477](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702134004477.png)
+![image-20210702134004477](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702134004477.png)
 
 ## 2、添加脚本
 
 点击加号添加脚本
 
-![image-20210702134159160](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702134159160.png)
+![image-20210702134159160](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702134159160.png)
 
 **把下面的代码粘贴到编辑器界面**添加完后按键盘ctrl（command) + s保存
 
-![image-20210702134546723](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702134546723.png)
+![image-20210702134546723](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702134546723.png)
 
 ```typescript
 "use strict";
@@ -624,18 +624,18 @@ GM_registerMenuCommand("查看源码、反馈BUG", function () {
 
 保存成功后页面如下所示：
 
-![image-20210702134637905](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702134637905.png)
+![image-20210702134637905](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702134637905.png)
 
 ## 3、使用脚本下载石墨文档
 
 3.1 登录石墨文档，进入你要批量导出的**文件夹**或**我的桌面**
 
-![image-20210702135106241](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702135106241.png)
+![image-20210702135106241](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702135106241.png)
 
 3.2 点击开始导出脚本开始进行批量导出工作：
 
-![image-20210702135401965](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702135401965.png)
+![image-20210702135401965](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702135401965.png)
 
 **脚本工作过程中不要关闭此页面或刷新页面，当导出结束后，会自动将导出的文件压缩成.zip格式压缩包进行下载，您也可以点击【点我下载】按钮进行手动下载**
 
-![image-20210702135633995](https://github.com/ihomentMickChen/shimo/tree/main/images/image-20210702135633995.png)
+![image-20210702135633995](https://github.com/ihomentMickChen/shimo/tree/master/images/image-20210702135633995.png)
